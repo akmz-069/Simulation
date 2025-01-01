@@ -1,3 +1,4 @@
+#congruential method 
 class MixedCongruentialGenerator:
     def __init__(self, seed, multiplier, increment, modulus):
     
